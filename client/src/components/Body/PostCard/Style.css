@@ -1,0 +1,21 @@
+.cardStyle {
+    display: block;
+    border-radius: 10%; 
+    margin-top: 10px;
+    height: 50vb;
+}
+
+.cardStyle :hover {
+    cursor: pointer;
+}
+
+.cardStyle img {
+    width: 100%;
+    height: 20vb;
+}
+
+.cardHeader {
+    height: 15vb;
+}
+
+
